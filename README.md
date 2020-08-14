@@ -1,6 +1,6 @@
-# quotely
+# quotely 1.0
 
-A new Flutter project.
+A Flutter app to fetch a new quote everyday.
 
 ## Getting Started
 
